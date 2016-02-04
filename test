@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+  <html class="no-js loading" lang="en">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=IE10" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1"/>
+  	<meta charset="utf-8">
+  	<title>BeardedYoga - Gitter</title>
+
+    <meta property="og:title" content="BeardedYoga"/>
+    <meta property="og:description" content="Where developers come to talk."/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:image" content="https://avatars1.githubusercontent.com/BeardedYoga?&amp;s=256"/>
+    <meta property="fb:app_id" content="882235198455578"/>
+    <meta property="twitter:card" content="summary"/>
+    <meta property="twitter:site" content="@gitchat"/>
+    <meta property="twitter:title" content="BeardedYoga"/>
+    <meta property="twitter:description" content="Where developers come to talk."/>
+    <meta property="twitter:image" content="https://avatars1.githubusercontent.com/BeardedYoga?&amp;s=256"/>
+    <link rel="stylesheet" href='//cdn02.gitter.im/_s/f3e2807/styles/router-app.css'>
+
+    <link id="favicon" rel="shortcut icon" href='//cdn03.gitter.im/_s/f3e2807/images/favicon-read.ico'>
+
+    <link rel="subresource" href="//cdn02.gitter.im/_s/f3e2807/js/vendor.js">
+    <link rel="subresource" href="//cdn03.gitter.im/_s/f3e2807/js/router-app.js">
+    <link rel="subresource" href="//cdn03.gitter.im/_s/f3e2807/js/router-chat.js">
+    <link rel="subresource" href="//cdn03.gitter.im/_s/f3e2807/fonts/sourcesans/SourceSansPro-Regular.otf.woff">
+
+    <link rel="dns-prefetch" href="cdn01.gitter.im">
+    <link rel="dns-prefetch" href="cdn02.gitter.im">
+    <link rel="dns-prefetch" href="cdn03.gitter.im">
+    <link rel="dns-prefetch" href="ws.gitter.im">
+
+  </head>
+  <body class='hover'>
+    
+    <div class="app-layout">
+      <div id="menu-region" class="menu-region">
+        <nav class="menu">
+          <div id="profile-region">
+<div id="left-menu-profile" class="menu-header" ><div class="menu-header__profile">
+  <div class='menu-header__avatar'>
+    <div
+  class="trpDisplayPicture avatar-56b2d38de610378809bfc95e avatar-s offline  ">
+  <img src="https://avatars0.githubusercontent.com/u/6503730?v=3&amp;s=30" srcset="https://avatars0.githubusercontent.com/u/6503730?v=3&amp;s=60 2x" height="30" width="30" class="avatar__image" alt="">
+  
+</div>
+
+  </div>
+  <div class="menu-header__name u-font-larger">
+    keIIy
+  </div>
+    <div class="menu-header__state">
+      <i class="octicon octicon-chevron-up"></i>
+      <i class="octicon octicon-chevron-down"></i>
+    </div>
+</div>
+<ul id="profile-menu" class="profile-menu">
+  <li id="link-home" class="profile-menu__item profile-menu__link">
+    <div class='profile-menu__icon'>
+      <i class='octicon octicon-home'></i>
+    </div>
+    <span>Home</span>
+  </li>
+</ul>
+</div>
+</div>
+
+<div class="nano  menu-content" id="left-menu-scroll">
+  <div class="content  nano-content  menu-content__wrapper" style="outline: none">
+    <div class="menu-list" id="list-mega">
+      <div class='menu-list__item' id="recentTroupesList">
+        <div class="list-favourites menu-list__section" id="favs-region" data-drop-target="favs">
+          <ul class="room-list">
+          </ul>
+        </div>
+        <div class="list-recents  menu-list__section" id="list-recents" data-drop-target="recents">
+          <div id="recents-region">
+          <ul class="room-list">
+              <li class="room-list-item room-list-item--current-room" data-id="56b2d394e610378809bfc963">
+              <div class="room-list-item__icon">
+  
+  <img src='https://avatars1.githubusercontent.com/BeardedYoga?&amp;s=16' srcset='https://avatars1.githubusercontent.com/BeardedYoga?&amp;s=32 2x' height='16' width='16'>
+</div>
+<span id="room-name" class="room-list-item__name" title="">BeardedYoga</span>
+<i class="room-list-item__action js-close-button icon-cancel-circle" data-id="56b2d394e610378809bfc963"></i>
+<span id="unread-badge" class="room-list-item__unread-badge" style="display:none">0</span>
+
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class='menu-list__item' id="suggested-region"></div>
+      <div class='menu-list__item' id="orgs-region">
+        <div >
+          <div class="menu-list__header">
+            <h5>Your Organisations</h5>
+          </div>
+          <div id="list">
+            <ul class="room-list">
+              <li  class="room-list-item" data-id="7864366"><div class="room-list-item__icon">
+  <img src='https://avatars1.githubusercontent.com/BeardedYoga?&amp;s=16' srcset='https://avatars1.githubusercontent.com/BeardedYoga?&amp;s=32 2x' height='16' width='16'>
+</div>
+<span class="room-list-item__name">BeardedYoga</span>
+</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="menu-list__overflow-shadow"></div>
+</div>
+<div class="menu__create-room-wrapper">
+  <a class="menu__create-room-button button-caribbean--small" href="#createroom">Create a room</a>
+</div>
+<div class="menu__hotspot">
+  <div id="menu-tab-unread-count" class="menu__tab"></div>
+</div>
+
+        </nav>
+      </div>
+      <div id="iframe-region" class="iframe-region">
+        <iframe id="content-frame" src="/BeardedYoga/~chat#initial" style="display: block; width: 100%; height: 100%; border: 0;" frameBorder="0"></iframe>
+        <div id="loading-frame" class="loading-frame hide">
+          <div class="loader"></div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">window.troupeEnv = {"lang":"en","domain":"gitter.im","baseServer":"gitter.im","basePath":"https://gitter.im","apiBasePath":"https://gitter.im/api","homeUrl":"/","badgeBaseUrl":"https://badges.gitter.im","mixpanelToken":"d43f5f0ef2f5e96d90325f539fc61337","googleTrackingId":"UA-45918290-1","googleTrackingDomain":"gitter.im","goSquaredTrackingId":"GSN-457403-A","env":"prod","cdns":["cdn01.gitter.im","cdn02.gitter.im","cdn03.gitter.im"],"version":"f3e280","assetTag":"f3e2807","logging":false,"ravenUrl":"https://0f50f03f994740328ab6a67c82395948@app.getsentry.com/19257","websockets":{"fayeUrl":"https://ws.gitter.im/bayeux","options":{"timeout":120,"retry":2}},"embed":{"basepath":"https://embed.gitter.im","cacheBuster":"1"},"billingUrl":"http://billing.gitter.im","maxFreeOrgRoomMembers":25};window.troupeContext = {"roomMember":true,"user":{"id":"56b2d38de610378809bfc95e","username":"keIIy","displayName":"keIIy","fallbackDisplayName":"keIIy","url":"/keIIy","avatarUrlSmall":"https://avatars0.githubusercontent.com/u/6503730?v=3&s=60","avatarUrlMedium":"https://avatars0.githubusercontent.com/u/6503730?v=3&s=128","scopes":{"public_repo":false,"private_repo":false},"gv":"3"},"accessToken":"cf75b6d192891ab2fbbd59e86ba07e84a87724ed","desktopNotifications":true,"events":[],"isNativeDesktopApp":false,"locale":{"%d unread message":{"one":"%d unread message","other":"%d unread messages"},"Unread messages in %%s, %%s and one other":{"one":"Unread messages in %%s, %%s and one other","other":"Unread messages in %%s, %%s and %d others"},"Unread messages in %s":"Unread messages in %s","Unread messages in %s and %s":"Unread messages in %s and %s","Unread messages from %s":"Unread messages from %s","Unread messages from %s and %s":"Unread messages from %s and %s","Unread messages from %%s, %%s and one other":{"one":"Unread messages from %%s, %%s and one other","other":"Unread messages from %%s, %%s and %d others"}},"features":["halley"]};</script>
+    <script type='text/javascript'>window.webpackPublicPath = '//cdn02.gitter.im/_s/f3e2807/js/';</script><script type='text/javascript' src='//cdn02.gitter.im/_s/f3e2807/js/vendor.js'></script><script type='text/javascript' src='//cdn03.gitter.im/_s/f3e2807/js/router-app.js'></script>
+      </body>
+</html>
